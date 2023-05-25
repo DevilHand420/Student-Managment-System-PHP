@@ -1,7 +1,7 @@
 # Student-Managment-System-PHP
 
 # Introduction
-I have build a student managment system using PHP, Javascript, css, custom css, bootstrap and mysql. 
+I have build a student managment system using PHP, Javascript, CSS, Custom CSS, Bootstrap and Mysql on server side. 
 
 # Software used
 1. Notepad++
