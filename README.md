@@ -10,8 +10,8 @@ I have build a student managment system using PHP, Javascript, CSS, Custom CSS, 
 
 # Screenshots
 ## Menu / Home Page:
-![menu](  ![1](https://github.com/DevilHand420/Student-Managment-System-PHP/assets/104151198/713b93a5-af1d-4907-823f-c4ed8c5eca39)
- )
+![1](https://github.com/DevilHand420/Student-Managment-System-PHP/assets/104151198/329b0c4d-c66e-4bcc-affa-7b1015c4ac35)
+
 ## HOME:
 ![about]()
 ## About us:
