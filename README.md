@@ -6,6 +6,7 @@ I have build a student managment system using PHP, Javascript, CSS, Custom CSS, 
 # Software used
 1. Notepad++
 2. VS code
+3. XAMPP
 
 # Screenshots
 ## Menu:
