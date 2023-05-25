@@ -1,8 +1,7 @@
 # Student-Managment-System-PHP
 
-# Himachal_PArdesh_University_Dummy_SITE
 # Introduction
-I have build a College university full workinng responsive frontend site, the server is not used but can be used like:-NODE.JS, EXPRESS.JS, MONGODB 
+I have build a student managment system using PHP, Javascript, css, custom css, bootstrap and mysql. 
 
 # Software used
 1. Notepad++
@@ -30,4 +29,4 @@ I have build a College university full workinng responsive frontend site, the se
 
 
 # Tech Stack
-Client: HTML, CSS, PHP
+Client: HTML, CSS, PHP , Javascript, Bootstrap, Ajex
