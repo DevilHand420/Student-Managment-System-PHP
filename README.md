@@ -3,6 +3,8 @@
 # Introduction
 I have build a student managment system using PHP, Javascript, CSS, Custom CSS, Bootstrap and Mysql on server side. 
 
+#Note: Some of the files are not included cuz there is some limit of uploadind data on github.
+
 # Software used
 1. Notepad++
 2. VS code
