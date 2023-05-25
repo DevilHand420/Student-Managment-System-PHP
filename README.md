@@ -9,11 +9,14 @@ I have build a student managment system using PHP, Javascript, CSS, Custom CSS, 
 3. XAMPP
 
 # Screenshots
-## Menu / Home Page:
+## Home Page:
 ![1](https://github.com/DevilHand420/Student-Managment-System-PHP/assets/104151198/329b0c4d-c66e-4bcc-affa-7b1015c4ac35)
+![2](https://github.com/DevilHand420/Student-Managment-System-PHP/assets/104151198/03ceae7a-794a-4675-b939-37976c809ead)
+![3](https://github.com/DevilHand420/Student-Managment-System-PHP/assets/104151198/c2ae3f20-0766-4770-90ff-ad9ae4fa2ec0)
 
 ## HOME:
-![about]()
+![about]  ![4](https://github.com/DevilHand420/Student-Managment-System-PHP/assets/104151198/b2c787aa-b8d3-47eb-96be-7d99e2f1688e)
+
 ## About us:
 ![about us1]()
 ![abput us 2]()
