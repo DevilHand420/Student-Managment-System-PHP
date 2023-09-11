@@ -48,3 +48,4 @@ With an intuitive user interface and responsive design, this system ensures a sm
 - Client: HTML, CSS, PHP, JavaScript, Bootstrap, Ajax
 - Server: XAMPP
 
+Feel free to reach out if you have any questions or need further assistance with the system. We're excited to have you explore the capabilities of our Student Management System for Peacemaker University!
