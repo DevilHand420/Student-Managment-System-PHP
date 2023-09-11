@@ -50,13 +50,4 @@ With an intuitive user interface and responsive design, this system ensures a sm
 
 Feel free to reach out if you have any questions or need further assistance with the system. We're excited to have you explore the capabilities of our Student Management System for Peacemaker University!
 
-Feel free to connect with me on:
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "www.linkedin.com/in/dikshant-sharma-b41539232"
-
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "[//github.com/USERNAME](https://github.com/DevilHand420)https://github.com/DevilHand420"
+Feel free to connect with me on LinkedIn: www.linkedin.com/in/dikshant-sharma-b41539232
