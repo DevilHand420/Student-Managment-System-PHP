@@ -1,9 +1,13 @@
 # Student Management System (PHP)
 
 ## Introduction
-This project is a Student Management System built using PHP, JavaScript, CSS, custom CSS, Bootstrap, and MySQL on the server-side. It allows users to manage student records, login, and access various features related to student information.
+Welcome to the Student Management System, designed and developed for Peacemaker University! This comprehensive system is built using PHP, JavaScript, CSS, custom CSS, Bootstrap, and MySQL on the server-side, offering a robust solution for managing student records and information. Peacemaker University is a fictional institution, and this system is tailored to its specific needs.
 
-**Note:** Some files are not included in this repository due to GitHub's file size limitations.
+Our Student Management System streamlines administrative tasks, making it easier for university staff to manage student data, course information, and notices efficiently. Students can also benefit from features like login functionality and access to prospectus details.
+
+With an intuitive user interface and responsive design, this system ensures a smooth and user-friendly experience for both administrators and students. Whether you're an educational institution looking for a customizable management solution or a developer seeking inspiration for similar projects, this repository serves as an excellent starting point.
+
+**Note:** Please note that some files are not included in this repository due to GitHub's file size limitations. To get started, follow the installation instructions in the repository and explore the various features offered by our Student Management System.
 
 ## Software Used
 - Notepad++
