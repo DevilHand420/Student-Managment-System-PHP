@@ -49,3 +49,5 @@ With an intuitive user interface and responsive design, this system ensures a sm
 - Server: XAMPP
 
 Feel free to reach out if you have any questions or need further assistance with the system. We're excited to have you explore the capabilities of our Student Management System for Peacemaker University!
+
+Feel free to connect with me on LinkedIn: www.linkedin.com/in/dikshant-sharma-b41539232
